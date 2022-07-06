@@ -12,7 +12,7 @@
  
 
 
-<div align="center">## FOR TERMUX/UBUNTU/SSH USER</div>
+<div align="center">𝙁𝙊𝙍 𝙏𝙀𝙍𝙈𝙐𝙓/𝙐𝘽𝙐𝙉𝙏𝙐/𝙎𝙎𝙃 𝙐𝙎𝙀𝙍</div>
 
 ```bash
 $ apt update && apt upgrade
